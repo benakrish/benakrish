@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @benakrish
 - 👀 I’m interested in creating games, investing software, and asset management systems.
-- 🌱 I’m currently learning advanced data structures and complex Java implementations.
 - 📫 How to reach me: benakrish0@gmail.com
 
 <!---
